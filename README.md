@@ -25,5 +25,31 @@ cấu trúc html gồm:
 </html>
 
 ########################
-ngày 12/10/2020         ( HỌC 
+ngày 12/10/2020     
 
+  Những thẻ html hay dùng
+ Tiêu đề (h1-h6)
+ nôi dung( p, span, strong) (strong là thẻ in đậm)
+ inline với block
+ block: thẻ div, p
+ inline: span, thẻ a, strong, img (img là hình ảnh), input (nút để chọn), button(nút bấm)
+ img có thuộc tính src (source: đường dẫn đến hình), alt( chữ thay thế cho hình ảnh khi đường dẫn sai)
+ thay đổi từ block qua inline và từ inline qua block bằng cách sử dụng thuộc tính display từ css
+ thẻ a href =" đường dẫn" targer="_blank"> link test
+ 
+   CSS
+ có 3 kiểu inline, internal,external
+ inline dùng attribute (thuộc tính) style viết trong thẻ html
+ internal dùng thuộc tính style viết trong head
+ external viết ở ngoài rồi inport vào bằng thẻ link   <link rel="stylesheet" href="đường dẫn .css">
+    thứ tự ưu tiên
+      inline
+      internal, external( do mình sắp xếp)
+ một số thuộc tính thường dùng
+    color : red(#ffffff mã hex : lên gg tìm)
+    font-family: khai báo font chữ
+    font-size: kích cở chữ
+    border : viền
+    background: màu nền
+ 
+ 
