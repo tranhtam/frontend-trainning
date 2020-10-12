@@ -12,3 +12,18 @@ cấu trúc html gồm:
       meta name="Descreption" (mô tả)
       icon
     body
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+<body>
+    <h1>This is a Heading</h1>
+    <p>This is a paragraph.</p>
+</body>
+</html>
+
+########################
+ngày 12/10/2020         ( HỌC 
+
