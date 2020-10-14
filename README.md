@@ -24,6 +24,12 @@ cấu trúc html gồm:
 </body>
 </html>
 
+thuộc tính class dùng khi có kiểu giống nhau, nhiều thằng dùng chung đc 
+id là duy nhất 1 id chỉ đc 1 thằng dùng
+  
+  # gọi id
+  . gọi class
+
 ########################
 ngày 12/10/2020     
 
@@ -51,5 +57,22 @@ ngày 12/10/2020
     font-size: kích cở chữ
     border : viền
     background: màu nền
+ ##########
+ css box model
+ content : nội dung
+ padding : khoản cách từ nội dung đề viền
+ border : viền
+ margin : lề
+ top , right , bottom,left
+ cú pháp css: 
+    selecter gồm id, class,..{property:value; }
+    property: thuộc tính 
+    value : giá trị
+    vd: h1 { color:blue; font-size:12px;}
+ 
+ 
+ 
+ 
+ 
  
  
