@@ -69,10 +69,18 @@ ngày 12/10/2020
     property: thuộc tính 
     value : giá trị
     vd: h1 { color:blue; font-size:12px;}
- 
- 
- 
- 
+###############################
+  đầu trang css phải có dấu * để chọn all 
+  :root    là gốc
+  mục đích thường dùng khai báo mã màu
+  font-weight : đậm nhạt  ( giống strong)
+  font-style: nghiên
+  khác nhau giữa display: none và visibility:hidden 
+  display mất luôn kích thước nội dung( chiều rộng và cao)
+  display-block : chiếm hết diện tích chiều ngang của nội dung
+  display-inline : chiếm đủ chiều dộng của nội dung, không lấy hết chiều rộng
+  display: flex;  :
+  
  
  
  
